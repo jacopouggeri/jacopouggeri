@@ -1,8 +1,8 @@
 ## Jacopo Uggeri
-[Personal Website](jacopouggeri.github.io) | [CV](https://jacopouggeri.github.io/a4cv/)
+[Personal Website](https://jacopouggeri.github.io) | [CV](https://jacopouggeri.github.io/a4cv/)
 
 ## Projects
-- [Red Giant Photoevaporation](github.com/jacopouggeri/red_giant_photoevaporation) – MSci Research: Can photoevaporation explain missing red giants at the centre of the Galaxy?
-- [Fern](github.com/jacopouggeri/fern) – Responsive and accessible academic articles
+- [Red Giant Photoevaporation](https://github.com/jacopouggeri/red_giant_photoevaporation) – MSci Research: Can photoevaporation explain missing red giants at the centre of the Galaxy?
+- [Fern](https://github.com/jacopouggeri/fern) – Responsive and accessible academic articles
 
-- Game Modifications – Repositories available at [JayuCraft](github.com/jayucraft)
+- Game Modifications – Repositories available at [JayuCraft](https://github.com/jayucraft)
